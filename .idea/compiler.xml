@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootLoggerWithLogback" />
+        <module name="security" />
+        <module name="springbootCRUDOperationsLearning" />
+        <module name="springbootLogger" />
+        <module name="springbootLearning" />
+        <module name="springbootProfiles" />
+        <module name="whiteLabelErrorPage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="security" target="17" />
+      <module name="springbootCRUDOperationsLearning" target="17" />
+      <module name="springbootLearning" target="17" />
+      <module name="springbootLogger" target="17" />
+      <module name="springbootLoggerWithLogback" target="17" />
+      <module name="springbootProfiles" target="17" />
+      <module name="whiteLabelErrorPage" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="security" options="-parameters" />
+      <module name="springbootCRUDOperationsLearning" options="-parameters" />
+      <module name="springbootLearning" options="-parameters" />
+      <module name="springbootLogger" options="-parameters" />
+      <module name="springbootLoggerWithLogback" options="-parameters" />
+      <module name="springbootProfiles" options="-parameters" />
+      <module name="whiteLabelErrorPage" options="-parameters" />
+    </option>
+  </component>
+</project>

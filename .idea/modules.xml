@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FullSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/FullSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootCRUDOperationsLearning/springbootCRUDOperationsLearning.iml" filepath="$PROJECT_DIR$/springbootCRUDOperationsLearning/springbootCRUDOperationsLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootLearning/springbootLearning.iml" filepath="$PROJECT_DIR$/springbootLearning/springbootLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootLogger/springbootLogger.iml" filepath="$PROJECT_DIR$/springbootLogger/springbootLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootLoggerWithLogback/springbootLoggerWithLogback.iml" filepath="$PROJECT_DIR$/springbootLoggerWithLogback/springbootLoggerWithLogback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootProfiles/springbootProfiles.iml" filepath="$PROJECT_DIR$/springbootProfiles/springbootProfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whiteLabelErrorPage/whiteLabelErrorPage.iml" filepath="$PROJECT_DIR$/whiteLabelErrorPage/whiteLabelErrorPage.iml" />
+    </modules>
+  </component>
+</project>
